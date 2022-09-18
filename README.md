@@ -25,22 +25,22 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
 ## My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=X-maaloum)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=maaloum)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Top Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X-maaloum)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maaloum)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=X-maaloum-X&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maaloum-X&show_icons=true)  
 
 ## My Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=X-maaloum)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username= maaloum)  
 
 ## My Github Streak Stats
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=X-maaloum)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maaloum)  
 
 ## My Profile Views
-![Profile views](https://gpvc.arturio.dev/X-maaloum) 
+![Profile views](https://gpvc.arturio.dev/maaloum) 
 
 <h2>Let's connect and work together...</h2>
 <ul>
