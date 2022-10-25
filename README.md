@@ -7,7 +7,7 @@
 
 **About Me**
 
-- 🤠  I'm a student  at Microverse and preparing a PHD Degree
+- 🤠  I'm a student  at Microverse
 
 - 💼 Reasercher and developer.
 
