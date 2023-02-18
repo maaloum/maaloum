@@ -1,4 +1,4 @@
-<h1 align="center"> Hey, I'm Maaloum Ely Cheick 👋</h1>
+<h1 align="center"> Hey there, I'm Maaloum Ely Cheick 👋</h1>
 <p align="center">A Full-Stack Developer</p>
 
 <br />
