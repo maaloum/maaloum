@@ -2,12 +2,11 @@
 <p align="center">A Full-Stack Developer</p>
 
 <br />
+   A passionate fullstack developer from Mauritania
+ <br />
+ 
 
-    I'm currently a software development student at Microverse, a Multicultural Full-stack development school. 
-
-**About Me**
-
-- 🤠  I'm a student  at Microverse
+- 🤠  Full stack Web developer who is always open for new challenges and opportunities
 
 - 💼 Reasercher and developer.
 
