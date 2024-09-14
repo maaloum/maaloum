@@ -2,15 +2,13 @@
 <p align="center">A Full-Stack Developer</p>
 
 <br />
-   A passionate fullstack developer from Mauritania
+   A passionate full-stack developer from Mauritania
  <br />
  
 
-- 🤠  Full stack Web developer who is always open for new challenges and opportunities
+- 🤠  Full stack Web developer who is always open to new challenges and opportunities
 
-- 💼 Reasercher and developer.
-
-- 📈 Currently learning full stack software development in a remote multicultural environment, 
+- 💼 Researcher and developer.
 
 - ❤️ I love writing coding, solving algorithms, and building fun experiments.
 
